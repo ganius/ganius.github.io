@@ -1,0 +1,4 @@
+# Head / Tail
+# gc = Get-Content
+gc file.txt | select -first 10
+gc file.txt | select -last 10
