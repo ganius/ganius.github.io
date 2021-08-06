@@ -1,0 +1,2 @@
+# show disk usage per folder
+du -h --max-depth=1 | sort -h
